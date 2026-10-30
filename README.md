@@ -1,8 +1,8 @@
 # Rubberized-concrete multi-output datasets (D1–D5)
 
 Five tabular datasets of rubberized concrete compiled from 65 published experimental studies. They are the
-rubberized-concrete datasets used in the manuscript *Joint versus independent modeling in multi-output
-regression: A controlled same-learner comparison on simulated and real data* (D. Li, J. He, F. Liu).
+rubberized-concrete datasets used in the manuscript *Bounding the gain of joint over independent modeling in
+multi-output regression: An excess-risk analysis and a learnable-residual diagnostic* (D. Li, J. He, F. Liu).
 
 | Dataset | Samples | Source studies | Outputs |
 |---|---|---|---|
